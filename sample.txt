@@ -6,16 +6,16 @@
 //ヒーロー画像
 
 
-//ABOUT
+//ABOUT susan
 
 
-//COURSE
+//COURSE hibo
 
 
-//NEWS
+//NEWS yamato
 
 
-//ACCESS
+//ACCESS yuki
 
 
 //CONTACT
