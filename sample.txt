@@ -7,7 +7,7 @@
 
 
 //ABOUT susan
-
+[about]という文字を追加しました。まるしぃありがとうーーー
 
 //COURSE hibo
 
